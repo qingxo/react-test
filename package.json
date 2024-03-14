@@ -1,7 +1,12 @@
 {
-  "name": "test",
+  "name": "store-used-tst",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": "qingxo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qingxo/store-used-tst.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -9,6 +14,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "view-store-data": "^0.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
